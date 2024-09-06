@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python1
 
 """The setup script."""
 import re
